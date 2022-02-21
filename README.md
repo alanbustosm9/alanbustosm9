@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning more of ReactJS, NodeJs to be full-stack developer, and some of ReactNative with Typescript
 
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/alan-bustos-mora-80564a219/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/alanbustosmora9/)
 
