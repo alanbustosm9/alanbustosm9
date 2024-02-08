@@ -28,7 +28,7 @@
   Front-End 💅🏽, Web development 🖥️.
 </div>
 <div align="center">
-  <a href="https://portfolio-alanbustosm.netlify.app/">
+  <a href="https://portfolio-alanbustosm.netlify.app/" target="_blank">
     💼 Portafolio
   </a>
   
